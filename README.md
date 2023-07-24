@@ -6,5 +6,7 @@ Sıralamanın önemi :Yapay zeka veya alt yapı yazılımlarında veriler kullan
 
 
 https://www.tutorialspoint.com/python_data_structure/python_sorting_algorithms.htm
+
 https://www.geeksforgeeks.org/sorting-algorithms-in-python
+
 https://realpython.com/sorting-algorithms-python
